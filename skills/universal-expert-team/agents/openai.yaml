@@ -1,0 +1,8 @@
+interface:
+  display_name: "Universal Expert Team"
+  short_description: "Dynamic expert teams, independent review, complete delivery"
+  default_prompt: "Use $universal-expert-team to design the team for this task, delegate authorized work, and deliver the complete result; use iterative review and repair if I request it."
+  icon_small: "./assets/icon.svg"
+  icon_large: "./assets/icon.svg"
+policy:
+  allow_implicit_invocation: true
