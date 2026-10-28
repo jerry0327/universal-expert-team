@@ -47,8 +47,8 @@ Universal Expert Team 讓具備代理工具的 AI 助手，依你的目標規劃
 ## 下載與開始使用
 
 1. 開啟 [Releases](https://github.com/jerry0327/universal-expert-team/releases/latest)，選擇技能套件 `universal-expert-team-v1.0.0.zip`。也可從本儲存庫取得 `skills/universal-expert-team/` 完整資料夾，並依[安裝指南](docs/installation.md)將儲存庫根目錄的 `LICENSE` 一併複製至安裝資料夾內。
-2. **支援技能上傳的 ChatGPT 環境：**上傳完整 ZIP，請平台安裝並確認載入。是否可安裝取決於你的帳號與目前介面；附件上傳成功不等於技能安裝成功。
-3. **Codex 本機環境：**將完整技能資料夾放入專案的 `.agents/skills/universal-expert-team/`，再確認技能已被偵測。指令與其他安裝範圍見[安裝指南](docs/installation.md)。此路徑依據 [OpenAI 官方文件](https://learn.chatgpt.com/docs/build-skills)。
+2. **支援技能上傳的 ChatGPT 環境：** 上傳完整 ZIP，請平台安裝並確認載入。是否可安裝取決於你的帳號與目前介面；附件上傳成功不等於技能安裝成功。
+3. **Codex 本機環境：** 將完整技能資料夾放入專案的 `.agents/skills/universal-expert-team/`，再確認技能已被偵測。指令與其他安裝範圍見[安裝指南](docs/installation.md)。此路徑依據 [OpenAI 官方文件](https://learn.chatgpt.com/docs/build-skills)。
 4. 安裝完成後，提供你的目標、來源與驗收條件，再明確請助手使用這個技能。
 
 ```text
